@@ -122,6 +122,13 @@
          </widget>
         </item>
         <item>
+         <widget class="QLabel" name="startTimeLab">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
          <widget class="QSlider" name="songProSlider">
           <property name="orientation">
            <enum>Qt::Orientation::Horizontal</enum>
